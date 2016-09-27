@@ -1,6 +1,8 @@
 install.packages("twittR")
 library(twitteR)
 
+##JOAR FORK
+
 
 API_key <- "ScCg5tg3ZkB2HLGuMnOrDIjzJ"
 API_secret <- "DvDsIjqExXR2BfPCJx6LeQNL41Gm6aEyNJIxmaRigxXlsxTMXI"
